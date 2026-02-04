@@ -29,6 +29,8 @@
             Console.WriteLine("M   M  F");
             Console.WriteLine("M   M  F");
 
+            Console.WriteLine("");
+
             Console.WriteLine("Press ENTER To Continue");
             Console.ReadLine();
             Console.Clear();

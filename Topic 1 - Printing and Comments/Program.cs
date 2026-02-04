@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Maxym
+            //Maxym F.
             
             Console.WriteLine("Hello, I am Maxym Fediw");
             Console.ForegroundColor = ConsoleColor.Green;
@@ -13,7 +13,7 @@
             Console.WriteLine();
             Console.WriteLine("Comments are used for: 1. Improving readability, and 2. Maintainability.");
             Console.WriteLine();
-            //Dasani Is the WORST Water Brand
+            //Dasani Is the WORST Water Brand!!!
 
            
             Console.WriteLine("Press ENTER To Continue");
@@ -37,6 +37,11 @@
             Console.BackgroundColor = ConsoleColor.Blue;
 
             Console.WriteLine("Ok, Bye.");
+
+            
+            
+
+            
 
             
 

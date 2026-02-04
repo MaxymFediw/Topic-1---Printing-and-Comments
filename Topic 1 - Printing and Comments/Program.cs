@@ -5,11 +5,22 @@
         static void Main(string[] args)
         {
             //Maxym
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("My Name is Maxym Fediw");
+            
+            Console.WriteLine("Hello, I am Maxym Fediw");
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.Red;
+           
             Console.WriteLine();
             Console.WriteLine("Comments are used for: 1. Improving readability, and 2. Maintainability.");
             Console.WriteLine();
+            //Dasani Is the WORST Water Brand
+
+           
+            Console.WriteLine("Press ENTER To Continue");
+            Console.ReadLine();
+
+            Console.Clear();
+
             Console.WriteLine("M   M  FFFFF");
             Console.WriteLine("MM MM  F");
             Console.WriteLine("MM MM  F");
@@ -17,6 +28,18 @@
             Console.WriteLine("M   M  F");
             Console.WriteLine("M   M  F");
             Console.WriteLine("M   M  F");
+
+            Console.WriteLine("Press ENTER To Continue");
+            Console.ReadLine();
+            Console.Clear();
+
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.Blue;
+
+            Console.WriteLine("Ok, Bye.");
+
+            
+
 
 
 
